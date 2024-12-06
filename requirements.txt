@@ -1,0 +1,10 @@
+datasets
+chromadb
+open-clip-torch
+google-generativeai
+streamlit
+requests
+langchain
+langchain-community
+openai
+tiktoken
